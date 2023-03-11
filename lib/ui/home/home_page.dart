@@ -89,7 +89,7 @@ class _HomePageState extends State<HomePage> {
         score = 0;
         height = 0;
         barrsX1 = 1;
-        barrsX2 = 3;
+        barrsX2 = 2;
         birdAxisY = 0;
         initH = birdAxisY;
         gameStarted = false;
@@ -103,8 +103,8 @@ class _HomePageState extends State<HomePage> {
         time = 0;
         score = 0;
         height = 0;
-        barrsX1 = 1;
-        barrsX2 = 3;
+        barrsX1 = 0.5;
+        barrsX2 = 2;
         birdAxisY = 0;
         initH = birdAxisY;
         gameStarted = false;
